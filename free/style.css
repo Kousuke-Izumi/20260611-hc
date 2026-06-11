@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+h1 {
+    color: tomato;
+}
+
+p {
+    color: rgba(255, 0, 0, 0.7);
+}
+
+h2 {
+    color: #00ff00;
+}
+
+h1,h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+body {
+    background: aqua;
+}
